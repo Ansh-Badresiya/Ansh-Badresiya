@@ -1,4 +1,4 @@
-<h1 align="center">Ansh Badresiya</h1>
+<h1 align="center">Hi 👋, I'm Ansh Badresiya</h1>
 
 <h3 align="center">
 Machine Learning • Data Science • DSA
@@ -63,14 +63,6 @@ Machine Learning • Data Science • DSA
 
 <p align="center">
 <img src="https://streak-stats.demolab.com?user=Ansh-Badresiya&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Ansh-Badresiya&theme=tokyonight&no-frame=true&row=1&column=7" />
 </p>
 
 ---
