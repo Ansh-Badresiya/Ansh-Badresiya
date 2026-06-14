@@ -137,7 +137,7 @@ Implementation of encryption concepts and security mechanisms.
 <p align="center">
 
 <a href="https://leetcode.com/u/Ansh_Badresiya/">
-<img src="https://leetcard.jacoblin.cool/YOUR_LEETCODE_USERNAME?theme=dark&font=Karma" />
+<img src="https://leetcard.jacoblin.cool/Ansh_Badresiya?theme=dark&font=Karma" />
 </a>
 
 </p>
