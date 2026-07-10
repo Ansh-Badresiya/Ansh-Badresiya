@@ -29,7 +29,7 @@ Machine Learning • Data Science • DSA
 ### Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=python,cpp,c,mysql" />
+<img src="https://skillicons.dev/icons?i=python,cpp,c,postgresql" />
 </p>
 
 ### Machine Learning & Data Science
